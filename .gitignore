@@ -1,0 +1,5 @@
+.env
+/vendor
+/node_modules
+/super-admin-template
+.DS_Store
